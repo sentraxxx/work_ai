@@ -11,6 +11,8 @@ matplotlib = "*"
 ipython = "*"
 scikit-learn = "*"
 pandas = "*"
+gym = {extras = ["all"],version = "*"}
+ffmpeg-python = "*"
 
 [requires]
 python_version = "3.6"
